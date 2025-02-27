@@ -12,6 +12,12 @@ public class Palindrome {
             System.out.println(str + " is a palindrome.");
         } else {
             System.out.println(str + " is not a palindrome.");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+system.out.println("hii")
+
+
         }
     }
 }
